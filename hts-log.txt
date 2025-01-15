@@ -1,0 +1,101 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jan 2025 16:21:08 at https://mapus.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mapus.io/ -O1 "C:\Users\NGHIATHE\Documents\Code\Survey" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:21:10	Warning: 	Note: due to https://mapus.io remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:22:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://mapus.io/wp-content/uploads/essential-addons-elementor/eael-5582.js?ver=1687181741
+16:22:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://mapus.io/wp-content/uploads/essential-addons-elementor/eael-1305.js?ver=1715675439
+16:26:13	Warning: 	Moved Permanently for https://mapus.io/?p=3578
+16:26:13	Warning: 	File has moved from https://mapus.io/?p=3578 to https://mapus.io/about-mapus/how-we-map-digital-competence/
+16:26:24	Warning: 	Moved Permanently for https://mapus.io/?p=5582
+16:26:24	Warning: 	File has moved from https://mapus.io/?p=5582 to https://mapus.io/about-mapus/our-frameworks/
+16:26:24	Warning: 	Moved Permanently for https://mapus.io/?p=1297
+16:26:24	Warning: 	File has moved from https://mapus.io/?p=1297 to https://mapus.io/about-mapus/about-mapus-digitalization-our-way/
+16:26:30	Warning: 	Moved Permanently for https://mapus.io/?p=1305
+16:26:30	Warning: 	File has moved from https://mapus.io/?p=1305 to https://mapus.io/about-mapus/about-mapus-team/
+16:26:30	Warning: 	Moved Permanently for https://mapus.io/?p=919
+16:26:30	Warning: 	File has moved from https://mapus.io/?p=919 to https://mapus.io/solutions/solutions-hr/
+16:26:30	Warning: 	Moved Permanently for https://mapus.io/?p=1272
+16:26:30	Warning: 	File has moved from https://mapus.io/?p=1272 to https://mapus.io/solutions/solutions-management-digital-leadership/
+16:26:30	Warning: 	Moved Permanently for https://mapus.io/?p=1271
+16:26:30	Warning: 	File has moved from https://mapus.io/?p=1271 to https://mapus.io/solutions/solutions-digitalization-consultants/
+16:26:30	Warning: 	Moved Permanently for https://mapus.io/?p=1273
+16:26:30	Warning: 	File has moved from https://mapus.io/?p=1273 to https://mapus.io/solutions/solutions-consultancy/
+16:26:31	Warning: 	Moved Permanently for https://mapus.io/?p=1274
+16:26:31	Warning: 	File has moved from https://mapus.io/?p=1274 to https://mapus.io/solutions/solutions-digital-education/
+16:26:31	Warning: 	Moved Permanently for https://mapus.io/?p=1275
+16:26:31	Warning: 	File has moved from https://mapus.io/?p=1275 to https://mapus.io/solutions/solutions-public-administration-service/
+16:26:31	Warning: 	Moved Permanently for https://mapus.io/?p=1276
+16:26:31	Warning: 	File has moved from https://mapus.io/?p=1276 to https://mapus.io/solutions/solutions-for-private-enterprise/
+16:26:31	Warning: 	Moved Permanently for https://mapus.io/?p=9613
+16:26:31	Warning: 	File has moved from https://mapus.io/?p=9613 to https://mapus.io/pricing/
+16:26:35	Warning: 	Moved Permanently for https://mapus.io/?p=437
+16:26:35	Warning: 	File has moved from https://mapus.io/?p=437 to https://mapus.io/knowledge-base/
+16:26:35	Warning: 	Moved Permanently for https://mapus.io/help/getting-started/
+16:26:35	Warning: 	File has moved from https://mapus.io/help/getting-started/ to https://mapus.io/knowledge-base/getting-started-digital-transformation/
+16:26:35	Warning: 	Moved Permanently for https://mapus.io/help/survey-building/
+16:26:35	Warning: 	File has moved from https://mapus.io/help/survey-building/ to https://mapus.io/knowledge-base/survey-building/
+16:26:35	Warning: 	Moved Permanently for https://mapus.io/help/advanced-functions/
+16:26:35	Warning: 	File has moved from https://mapus.io/help/advanced-functions/ to https://mapus.io/knowledge-base/advanced-functions/
+16:26:35	Warning: 	Moved Permanently for https://mapus.io/help/tutorials/
+16:26:35	Warning: 	File has moved from https://mapus.io/help/tutorials/ to https://mapus.io/knowledge-base/tutorials/
+16:27:06	Warning: 	Moved Permanently for https://mapus.io/?p=1327
+16:27:06	Warning: 	File has moved from https://mapus.io/?p=1327 to https://mapus.io/knowledge-base/getting-started-digital-transformation/
+16:27:06	Warning: 	Moved Permanently for https://mapus.io/?p=2161
+16:27:06	Warning: 	File has moved from https://mapus.io/?p=2161 to https://mapus.io/knowledge-base/survey-building/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=1330
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=1330 to https://mapus.io/knowledge-base/advanced-functions/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=4273
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=4273 to https://mapus.io/knowledge-base/cases/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=2251
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=2251 to https://mapus.io/knowledge-base/tutorials/
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Create-and-view-groups.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2022/03/Baseline-and-benchmark-reports-_-Videoskilt-til-mapus.io_.jpg (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Manage-admin-access.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/How-to-login.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Survey.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Questionnaire.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Competences.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Taxonomy.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Resources.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Error: 	"Not Found" (404) at link https://mapus.io/knowledge-base/tutorials/https:/mapus.io/wp-content/uploads/2021/05/Personas.png (from https://mapus.io/knowledge-base/tutorials/)
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=8014
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=8014 to https://mapus.io/knowledge-base/faq/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=2135
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=2135 to https://mapus.io/contact-and-support/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=1345
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=1345 to https://mapus.io/reseller/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=2213
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=2213 to https://mapus.io/knowledge-base/survey-building/personas/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=2030
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=2030 to https://mapus.io/knowledge-base/getting-started-digital-transformation/internal-facilitation/
+16:27:07	Warning: 	Moved Permanently for https://mapus.io/?p=2114
+16:27:07	Warning: 	File has moved from https://mapus.io/?p=2114 to https://mapus.io/knowledge-base/advanced-functions/mapus-vs-other-survey-software/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=5154
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=5154 to https://mapus.io/privacy-policy-and-terms-of-service/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=1959
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=1959 to https://mapus.io/knowledge-base/getting-started-digital-transformation/preparation-guide/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=1567
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=1567 to https://mapus.io/knowledge-base/getting-started-digital-transformation/roadmap-digital-transformation/
+16:27:08	Error: 	"Not Found" (404) at link https://mapus.io/wp-content/uploads/img/bg.jpg (from https://mapus.io/wp-content/uploads/essential-addons-elementor/eael-5582.css?ver=1687181741)
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=1559
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=1559 to https://mapus.io/knowledge-base/getting-started-digital-transformation/basic-feature-guide/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2258
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2258 to https://mapus.io/knowledge-base/getting-started-digital-transformation/admin-guide/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2776
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2776 to https://mapus.io/knowledge-base/getting-started-digital-transformation/result-guide/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2206
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2206 to https://mapus.io/knowledge-base/survey-building/idea-integration-guide/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2197
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2197 to https://mapus.io/knowledge-base/survey-building/survey-building-101/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2874
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2874 to https://mapus.io/knowledge-base/advanced-functions/coloring-questions/
+16:27:08	Warning: 	Moved Permanently for https://mapus.io/?p=2939
+16:27:08	Warning: 	File has moved from https://mapus.io/?p=2939 to https://mapus.io/knowledge-base/advanced-functions/question-building-guide/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 0 seconds : 513 links scanned, 463 files written (38502994 bytes overall) [39373451 bytes received at 109370 bytes/sec], 98903 bytes transferred using HTTP compression in 1 files, ratio 34%, 3.7 requests per connection
+(11 errors, 79 warnings, 0 messages)
